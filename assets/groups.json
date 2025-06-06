@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Work Team" },
+  { "id": 2, "name": "Family Chat" },
+  { "id": 3, "name": "Friends Group" },
+  { "id": 4, "name": "Project X" },
+  { "id": 5, "name": "Book Club" },
+  { "id": 6, "name": "Gym Buddies" },
+  { "id": 7, "name": "Travel Planning" },
+  { "id": 8, "name": "Gaming Squad" },
+  { "id": 9, "name": "Neighborhood Watch" },
+  { "id": 10, "name": "School Parents" }
+]
